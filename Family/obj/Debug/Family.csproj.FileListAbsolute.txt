@@ -1,0 +1,6 @@
+C:\dev\Training\Family\Family\bin\Debug\Family.exe.config
+C:\dev\Training\Family\Family\bin\Debug\Family.exe
+C:\dev\Training\Family\Family\bin\Debug\Family.pdb
+C:\dev\Training\Family\Family\obj\Debug\Family.csprojResolveAssemblyReference.cache
+C:\dev\Training\Family\Family\obj\Debug\Family.exe
+C:\dev\Training\Family\Family\obj\Debug\Family.pdb
